@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AtvAula.15.07/AtvAula.15.07.iml" filepath="$PROJECT_DIR$/AtvAula.15.07/AtvAula.15.07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.03.06/Aula.03.06.iml" filepath="$PROJECT_DIR$/Aula.03.06/Aula.03.06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.06.05/Aula.06.05.iml" filepath="$PROJECT_DIR$/Aula.06.05/Aula.06.05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.08.04/Aula.08.04.iml" filepath="$PROJECT_DIR$/Aula.08.04/Aula.08.04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula.08.07/Aula.08.07.iml" filepath="$PROJECT_DIR$/Aula.08.07/Aula.08.07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.13.05/Aula.13.05.iml" filepath="$PROJECT_DIR$/Aula.13.05/Aula.13.05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.15.04/Aula.15.04.iml" filepath="$PROJECT_DIR$/Aula.15.04/Aula.15.04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula.15.07/Aula.15.07.iml" filepath="$PROJECT_DIR$/Aula.15.07/Aula.15.07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.17.06/Aula.17.06.iml" filepath="$PROJECT_DIR$/Aula.17.06/Aula.17.06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.20.05/Aula.20.05.iml" filepath="$PROJECT_DIR$/Aula.20.05/Aula.20.05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.22.04/Aula.22.04.iml" filepath="$PROJECT_DIR$/Aula.22.04/Aula.22.04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.24.06/Aula.24.06.iml" filepath="$PROJECT_DIR$/Aula.24.06/Aula.24.06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.27.05/Aula.27.05.iml" filepath="$PROJECT_DIR$/Aula.27.05/Aula.27.05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula.29.04/Aula.29.04.iml" filepath="$PROJECT_DIR$/Aula.29.04/Aula.29.04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula2.08.07/Aula2.08.07.iml" filepath="$PROJECT_DIR$/Aula2.08.07/Aula2.08.07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aulas.08.04.2025.iml" filepath="$PROJECT_DIR$/Aulas.08.04.2025.iml" />
     </modules>
   </component>
